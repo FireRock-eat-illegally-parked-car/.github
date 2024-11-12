@@ -1,12 +1,7 @@
-## Hi Bully 👋
+## Hi Bully 🔥
 
-<!--
+#### ポートガス・D・エース 
 
-**Here are some ideas to get you started:**
+> ワンピースの登場人物。白ひげ海賊団の前2番隊隊長だ。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+麦わら帽子一党の船長モンキーD.ルピー、革命軍の参謀総長サボと義兄弟の間だ。 '海賊王' ゴールD.ロジャーの一つだけの子で父の名前を知って私は以来'悪鬼'の血を持って生まれた自分が存在してもよいか無限に悩んでさまよった。単独で移動する時は火を動力にして動く船「ストライカー」に乗って通う
